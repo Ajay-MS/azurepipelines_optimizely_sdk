@@ -8,4 +8,7 @@ setup(name='azurepipelines_optimizely_sdk',
       author_email='ajya@microsoft.com',
       license='MIT',
       packages=['azurepipelines_optimizely_sdk'],
+      install_requires=[
+          'optimizely-sdk',
+      ],
       zip_safe=False)
