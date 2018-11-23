@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='azurepipelines_optimizely_sdk',
-      version='0.1',
+      version='0.3',
       description='SDK for optimizely integration',
       url='http://github.com/microsoft/azurepipelines-optimizely-sdk',
       author='Ajay Yadav',
